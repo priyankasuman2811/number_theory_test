@@ -1,6 +1,9 @@
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * This is the main java class that calculated the tf-idf and display the value.
+ */
 public class TF_DFI {
     private static Map<String, Double> tf_ifd_map = new HashMap<>();
     public static void main(String[] args) {

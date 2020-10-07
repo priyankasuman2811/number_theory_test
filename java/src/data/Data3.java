@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Data class to load data from the txt3 file.
+ */
 public class Data3 {
     private static String data3 = "I’m a person who likes to adopt new technology early: I was into MiniDisc players way back when; I had the first Android phone; I moved away from conventional home audio and adopted Sonos in 2012; I’m all about that home automation. I love products, services and companies that make me feel like I’m in the future.\n" +
             "\n" +
