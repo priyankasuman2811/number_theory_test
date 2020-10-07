@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Data class to load data from the txt1 file.
+ */
 public class Data1 {
     private static String data1 = "To make autonomous driving cars safer and smarter, what we need is providing human-like reflexes to the car, and that could be achieved through 5G only”.\n" +
             "Who would have thought that the 5G wireless networks which are used for faster data speeds on phones and laptops could actually be used in making driverless cars more efficient and superior?\n" +
