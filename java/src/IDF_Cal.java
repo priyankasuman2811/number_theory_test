@@ -6,6 +6,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * This class will compute all the tf and idf values for all doc and store them in the map.
+ */
 public class IDF_Cal {
     public static Map<String, Integer> getAllFreqMap() {
         Map<String, Integer> freq = new HashMap<>();

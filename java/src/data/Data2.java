@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Data class to load data from the txt2 file.
+ */
 public class Data2 {
     private static String data2 = "Google and Apple are two of the most successful and admired technology companies, yet their approach to product development differs in some fundamental aspects. Google’s is based heavily on data and experimentation and might be called the engineering approach. Apple’s relies more on vision and intuition and might be called the liberal arts approach.\n" +
             "\n" +
